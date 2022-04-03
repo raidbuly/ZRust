@@ -1,22 +1,2 @@
-{ 
-"appnews": 
-{ "appid": 252490,
- "newsitems": [ 
- { 
- "gid": 2543829635484,
- "title": "Информация о сервере!",
- "url": "https://vk.com/zona196dev",
- "is_external_url": true,
- "author": "ZonaRust",
- "информация": "[img]https://i.yapx.ru/ReKu1.jpg[/img]
-
-Приятной игры на нашем игровом пиратском проекте ZonaRust!🍁
-P.S. Спасибо за онлайн , дальше лучше и больше! Хотите играть комфортно , выбирайте качество и стабильность !",
- "feedlabel": "Community Announcements",
- "date": 1634391839,
- "айпи": "185.189.255.134", 
- "feedname": "steam_community_announcements",
- "feed_type": 1,
- "appid": 252490 
- } 
- ] } }
+{ "appnews": { "appid": 252490, "newsitems": [ { "gid": 1283752944101, "title": "ГРУППА В ВК", "url": "https://vk.com/zona196dev", "is_external_url": true, "author": "ZonaRust", "contents": 
+"[img]https://i.yapx.ru/ReKu1.jpg[/img]\n-Уникальные плагины!\n-Ограничение по команде 3 человека!\n-Группа в ВК: https://vk.com/zona196dev \n-Магазин сервера: 196zrust.gamestores.ru \n♻-\n-IP: connect 185.189.255.134:35090", "feedlabel": "Community Announcements", "date": 1623312944, "feedname": "steam_community_announcements", "feed_type": 1, "appid": 252490 } ] } }
